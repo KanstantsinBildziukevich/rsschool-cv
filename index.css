@@ -1,0 +1,15 @@
+.wrapper {
+    width: 1024px;
+    margin-top: 20px;
+    margin-left: calc(50% - 512px);
+}
+
+.avatar {
+    display: inline-block;
+}
+
+.main-info {
+    display: inline-block;
+    margin-left: 25px;
+    vertical-align: top;
+}
